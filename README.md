@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![image](https://github.com/ib-forked-projects/React-Admin-Dashboard-responsive/assets/70942308/1143809f-70c1-4062-9e87-9c4e33c06c33)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
